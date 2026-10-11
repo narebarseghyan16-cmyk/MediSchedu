@@ -1,0 +1,8 @@
+{
+  "name": "Remix MediSchedule",
+  "description": "Բժշկի ընդունելության և կլինիկաների ամրագրման համակարգ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
